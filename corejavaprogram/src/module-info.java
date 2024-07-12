@@ -4,5 +4,5 @@
 /**
  * 
  */
-module corejavaprograms {
+module corejavaprogram {
 }
